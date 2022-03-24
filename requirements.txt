@@ -1,0 +1,12 @@
+Flask==1.1.2
+pandas==1.2.3
+joblib==0.15.1
+numpy==1.21.0
+cryptography==3.4.7
+requests==2.24.0
+config==0.5.1
+psycopg2==2.8.6
+PyJWT==2.3.0
+python-dotenv==0.19.2
+itsdangerous==2.0.1
+sklearn>=0.0
